@@ -1,4 +1,38 @@
+<style>
+/* 背景图片样式 */
+body {
+    background-image: url('(https://link.bmwas.cn/vmini?c=LsLsVr)');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 20px;
+    min-height: 100vh;
+}
 
+/* 内容区域半透明背景 */
+.content-container {
+    background-color: rgba(255, 255, 255, 0.88);
+    padding: 25px;
+    border-radius: 12px;
+    max-width: 900px;
+    margin: 0 auto;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* 视频容器样式 */
+.video-section {
+    margin: 25px 0;
+    text-align: center;
+}
+
+.video-section iframe {
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+}
+</style>
+
+<div class="content-container">
 #  我的网易云音乐电台
 
 欢迎收听我的个人音乐电台！
@@ -12,7 +46,11 @@
     height="300"
     src="https://music.163.com/outchain/player?type=0&id=8988180767&auto=0&height=430">
 </iframe>
-
+<div class="video-section">
+    <h2>🎬 推荐视频</h2>
+    <!-- 替换下面的src为你的视频嵌入链接 -->
+    <iframe width="560" height="315" src="https://b23.tv/meKi9Xl" title="视频播放器" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 ---
 
 您可以为您的朋友在此电台点歌
@@ -53,3 +91,4 @@
 **享受音乐，享受生活**
 
 *最后更新：2025年9月29*
+</div>
