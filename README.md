@@ -1,19 +1,4 @@
-<style>
-body {
-    background-image: url('https://raw.githubusercontent.com/navlove140ed8/navlove140ed8.github.io/images/bg.jpg');
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-}
-.container {
-    background-color: rgba(255, 255, 255, 0.8);
-    padding: 30px;
-    border-radius: 15px;
-    margin: 20px;
-}
-</style>
 
-<div class="container">
 #  我的网易云音乐电台
 
 欢迎收听我的个人音乐电台！
