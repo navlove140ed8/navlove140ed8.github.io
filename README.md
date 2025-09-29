@@ -1,17 +1,28 @@
-# 🎧 欢迎来到我的个人电台
+---
+title: "我的音乐电台"
+layout: default
+---
 
-<div align="center">
+# 🎵 我的网易云音乐电台
 
-![电台标志](https://via.placeholder.com/150x150.png?text=🎵) 
-*用你自己的图片替换这个占位图*
+欢迎收听我的个人音乐电台！
 
-**一个专属于你的音乐空间**
+<iframe 
+    frameborder="no" 
+    border="0" 
+    marginwidth="0" 
+    marginheight="0" 
+    width="100%" 
+    height="500"
+    src="https://music.163.com/outchain/player?type=0&id=2518440126&auto=0&height=430">
+</iframe>
 
-[![进入电台](https://img.shields.io/badge/🎵-进入我的电台-ff69b4?style=for-the-badge&logo=music&logoColor=white)](music.md)
-[![网易云音乐](https://img.shields.io/badge/网易云音乐-E60026?style=flat&logo=netease-cloud-music&logoColor=white)](https://music.163.com/playlist?id=2518440126)
+---
 
-</div>
+如果播放器没有正常显示，请直接访问：
+[我的网易云歌单](https://music.163.com/playlist?id=你的歌单ID)
 
+[返回首页](index.md)
 ---
 
 ## 🌟 关于这个电台
@@ -23,14 +34,6 @@
 - 📱 **多端支持** - 电脑、手机均可完美访问
 - 🆓 **完全免费** - 无需登录，点击即听
 
-## 🎵 电台特色
-
-| 时段 | 音乐风格 | 适合场景 |
-|------|----------|----------|
-| 早晨 | 轻快流行 | 开启一天好心情 |
-| 白天 | 轻音乐/钢琴 | 工作学习专注 |
-| 夜晚 | 爵士/Lofi | 放松休息 |
-| 周末 | 电子/摇滚 | 活力充电 |
 
 ## 🚀 快速开始
 
@@ -45,8 +48,7 @@
 
 - **网易云APP**：搜索歌单 ID `2518440126`
 - **直接访问**：[网易云歌单链接](https://music.163.com/playlist?id=2518440126)
-- **扫码收听**：
-  ![二维码占位](https://via.placeholder.com/150x150.png?text=扫码收听)
+
 
 ## 💡 小贴士
 
