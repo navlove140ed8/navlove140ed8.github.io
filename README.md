@@ -52,14 +52,3 @@
 **享受音乐，享受生活**
 
 *最后更新：2025年9月29*
-
-</div>
-<button onclick="showPlayer()" style="padding:15px 30px; font-size:18px; background:#1db954; color:white; border:none; border-radius:30px; cursor:pointer;">▶️ 开始播放</button>
-
-<div id="musicPlayer" style="margin:20px 0;"></div>
-
-<script>
-function showPlayer() {
-    document.getElementById('musicPlayer').innerHTML = '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="86" src="//music.163.com/outchain/player?type=2&id=2518440126&auto=1&height=66"></iframe>';
-}
-</script>
