@@ -1,8 +1,3 @@
----
-title: "我的音乐电台"
-layout: default
----
-
 # 🎵 我的网易云音乐电台
 
 欢迎收听我的个人音乐电台！
@@ -22,7 +17,7 @@ layout: default
 如果播放器没有正常显示，请直接访问：
 [我的网易云歌单](https://music.163.com/playlist?id=你的歌单ID)
 
-[返回首页](index.md)
+
 ---
 
 ## 🌟 关于这个电台
