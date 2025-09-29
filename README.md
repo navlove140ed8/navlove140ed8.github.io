@@ -1,3 +1,5 @@
+<div style="background: url('<a href="https://imgtu.com/zh/upload/c8t1numr/mmexport1691394429233" target="_blank"><img src="https://imgtu.com/uploads/c8t1numr/t-mmexport1691394429233.webp" alt="mmexport1691394429233.jpg" border="0"/></a>') center/cover no-repeat fixed; min-height: 100vh; padding: 20px;">
+
 #  我的网易云音乐电台
 
 欢迎收听我的个人音乐电台！
@@ -55,4 +57,5 @@
 **享受音乐，享受生活**
 
 *最后更新：2025年9月29*
+</div>
 </div>
