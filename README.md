@@ -1,18 +1,65 @@
-# 🎵 我的网易云音乐电台
+# 🎧 欢迎来到我的个人电台
 
-欢迎收听我的个人音乐电台！
+<div align="center">
 
-<iframe 
-    frameborder="no" 
-    border="0" 
-    marginwidth="0" 
-    marginheight="0" 
-    width="100%" 
-    height="500"
-    src="https://music.163.com/outchain/player?type=0&id=2518440126&auto=0&height=430">
-</iframe>
+![电台标志](https://via.placeholder.com/150x150.png?text=🎵) 
+*用你自己的图片替换这个占位图*
 
-**使用说明：**
-- 点击播放按钮开始收听
-- 可以在播放器内查看歌单列表
-- 歌曲版权由网易云音乐提供
+**一个专属于你的音乐空间**
+
+[![进入电台](https://img.shields.io/badge/🎵-进入我的电台-ff69b4?style=for-the-badge&logo=music&logoColor=white)](music.md)
+[![网易云音乐](https://img.shields.io/badge/网易云音乐-E60026?style=flat&logo=netease-cloud-music&logoColor=white)](https://music.163.com/playlist?id=你的歌单ID)
+
+</div>
+
+---
+
+## 🌟 关于这个电台
+
+> 这里是我精心打造的音乐世界，为你提供24/7不间断的音乐体验
+
+- 🎶 **精选歌单** - 精心挑选的优质音乐
+- 🌙 **多种氛围** - 学习、工作、放松、专注
+- 📱 **多端支持** - 电脑、手机均可完美访问
+- 🆓 **完全免费** - 无需登录，点击即听
+
+## 🎵 电台特色
+
+| 时段 | 音乐风格 | 适合场景 |
+|------|----------|----------|
+| 早晨 | 轻快流行 | 开启一天好心情 |
+| 白天 | 轻音乐/钢琴 | 工作学习专注 |
+| 夜晚 | 爵士/Lofi | 放松休息 |
+| 周末 | 电子/摇滚 | 活力充电 |
+
+## 🚀 快速开始
+
+1. **点击上方 [🎵 进入我的电台] 按钮**
+2. 等待播放器加载（约3-5秒）
+3. 点击播放按钮开始享受音乐
+4. 可以在播放器内切换歌曲、调整音量
+
+## 📱 其他收听方式
+
+如果网页播放器遇到问题，你可以：
+
+- **网易云APP**：搜索歌单 ID `你的歌单ID`
+- **直接访问**：[网易云歌单链接](https://music.163.com/playlist?id=2518440126)
+- **扫码收听**：
+  ![二维码占位](https://via.placeholder.com/150x150.png?text=扫码收听)
+
+## 💡 小贴士
+
+- 建议使用 Chrome、Edge 等现代浏览器
+- 保持网络畅通以获得最佳体验
+- 歌单会定期更新，欢迎常来听听
+
+---
+
+<div align="center">
+
+**享受音乐，享受生活 🎶**
+
+*最后更新：2024年1月*
+
+</div>
