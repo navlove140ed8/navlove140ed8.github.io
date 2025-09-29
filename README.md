@@ -9,7 +9,7 @@
     marginwidth="0" 
     marginheight="0" 
     width="100%" 
-    height="300"
+    height="200"
     src="https://music.163.com/outchain/player?type=0&id=8988180767&auto=0&height=430">
 </iframe>
 
@@ -37,7 +37,7 @@
 如果网页播放器遇到问题，你可以：
 
 - **网易云APP**：搜索歌单 ID `2518440126`
-- **直接访问**：[歌单链接](https://music.163.com/playlist?id=2518440126)
+- **直接访问**：[歌单链接](https://music.163.com/playlist?id=8988180767)
 
 
 ##  小贴士
