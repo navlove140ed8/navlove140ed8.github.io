@@ -1,3 +1,4 @@
+<div style="background: url('https://raw.githubusercontent.com/navlove140ed8/navlove140ed8.github.io/edit/main/bk.png') center/cover no-repeat fixed; min-height: 100vh; padding: 20px;">
 
 #  我的网易云音乐电台
 
@@ -56,4 +57,5 @@
 **享受音乐，享受生活**
 
 *最后更新：2025年9月29*
+</div>
 </div>
