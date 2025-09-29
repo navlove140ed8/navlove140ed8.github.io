@@ -8,14 +8,14 @@
     marginwidth="0" 
     marginheight="0" 
     width="100%" 
-    height="500"
+    height="300"
     src="https://music.163.com/outchain/player?type=0&id=2518440126&auto=0&height=430">
 </iframe>
 
 ---
 
 如果播放器没有正常显示，请直接访问：
-[网易云歌单](https://music.163.com/playlist?id=2518440126)
+[网易云歌单]((https://music.163.com/playlist?id=2518440126))
 
 
 ---
