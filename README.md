@@ -8,7 +8,7 @@
 **一个专属于你的音乐空间**
 
 [![进入电台](https://img.shields.io/badge/🎵-进入我的电台-ff69b4?style=for-the-badge&logo=music&logoColor=white)](music.md)
-[![网易云音乐](https://img.shields.io/badge/网易云音乐-E60026?style=flat&logo=netease-cloud-music&logoColor=white)](https://music.163.com/playlist?id=你的歌单ID)
+[![网易云音乐](https://img.shields.io/badge/网易云音乐-E60026?style=flat&logo=netease-cloud-music&logoColor=white)](https://music.163.com/playlist?id=2518440126)
 
 </div>
 
@@ -43,7 +43,7 @@
 
 如果网页播放器遇到问题，你可以：
 
-- **网易云APP**：搜索歌单 ID `你的歌单ID`
+- **网易云APP**：搜索歌单 ID `2518440126`
 - **直接访问**：[网易云歌单链接](https://music.163.com/playlist?id=2518440126)
 - **扫码收听**：
   ![二维码占位](https://via.placeholder.com/150x150.png?text=扫码收听)
