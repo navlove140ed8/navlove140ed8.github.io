@@ -1,4 +1,4 @@
-<div style="background: url('https://raw.githubusercontent.com/navlove140ed8/navlove140ed8.github.io/edit/main/bk.png') center/cover no-repeat fixed; min-height: 100vh; padding: 20px;">
+<div style="background: url('https://github.com/navlove140ed8/navlove140ed8.github.io/blob/main/bk.png') center/cover no-repeat fixed; min-height: 100vh; padding: 20px;">
 
 #  我的网易云音乐电台
 
