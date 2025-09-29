@@ -15,7 +15,7 @@
 ---
 
 如果播放器没有正常显示，请直接访问：
-[网易云歌单](https://music.163.com/playlist?id=你的歌单ID)
+[网易云歌单](https://music.163.com/playlist?id=2518440126)
 
 
 ---
