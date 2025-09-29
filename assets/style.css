@@ -1,1 +1,29 @@
+/* 为整个页面设置背景 */
+body {
+    /* 背景图片路径：从css文件夹(./)出发，向上(../)到assets，再进入images文件夹，找到图片 */
+    background-image: url('../images/background.jpg');
+    
+    /* 让背景图缩放以覆盖整个屏幕 */
+    background-size: cover;
+    
+    /* 让背景图始终居中显示 */
+    background-position: center;
+    
+    /* 防止背景图重复平铺 */
+    background-repeat: no-repeat;
+    
+    /* 让背景图固定，不随页面滚动而移动，创造高级的视差效果 */
+    background-attachment: fixed;
+    
+    /* （可选）设置一个备用背景色，如果图片加载前或加载失败时显示 */
+    background-color: #f0f0f0; 
+}
 
+/* （强烈推荐）为主要内容区域添加一个半透明背景，确保文字清晰可读 */
+.container {
+    background-color: rgba(255, 255, 255, 0.85); /* 白色，85%不透明度 */
+    padding: 2rem; /* 内容与边框的内边距 */
+    border-radius: 10px; /* 圆角边框 */
+    margin-top: 2rem; /* 顶部外边距 */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 轻微的阴影，增加立体感 */
+}
